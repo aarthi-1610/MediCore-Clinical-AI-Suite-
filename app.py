@@ -877,8 +877,8 @@ div[data-testid="stVerticalBlock"] > div:last-child .stButton > button:hover {
 """, unsafe_allow_html=True)
 
 # ── ADMIN CREDENTIALS ──
-ADMIN_USERNAME = "Aarthi"
-ADMIN_PASSWORD = "@@rthiT5436"
+ADMIN_USERNAME = st.secrets["ADMIN_USERNAME"]
+ADMIN_PASSWORD = st.secrets["ADMIN_PASSWORD"]
 
 DATA_PATH = "healthcare_dataset.csv"
 
