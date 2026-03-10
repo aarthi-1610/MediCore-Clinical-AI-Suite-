@@ -6,6 +6,20 @@ import json
 import requests
 import io
 
+
+import os
+import gdown
+
+def download_models():
+    if not os.path.exists("billing_model.pkl"):
+        gdown.download(
+            "https://drive.google.com/uc?id=1jetZTPH0TwFT0SLHcUXT0tl-4R0nAQXi",
+            "billing_model.pkl", quiet=False
+        )
+
+download_models()
+
+
 # ── PDF GENERATION ──
 from reportlab.lib.pagesizes import A4
 from reportlab.lib import colors
