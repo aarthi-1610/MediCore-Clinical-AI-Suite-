@@ -220,7 +220,22 @@ MediCore-Clinical-AI-Suite/
 📸 Screenshots
 
 <img width="1372" height="725" alt="Screenshot 2026-02-27 190835" src="https://github.com/user-attachments/assets/6fe67f0c-4785-40ac-8285-feaecd5be2be" />
-
+<img width="1377" height="726" alt="Screenshot 2026-02-27 190915" src="https://github.com/user-attachments/assets/c3af281b-5b79-432c-9455-dd1fcaad7b15" />
+<img width="1379" height="728" alt="Screenshot 2026-02-27 190947" src="https://github.com/user-attachments/assets/938590bb-589b-45ce-b803-794521d1cb51" />
+<img width="1920" height="1020" alt="Screenshot 2026-03-04 132252" src="https://github.com/user-attachments/assets/c81c58ac-1168-462e-b66a-a0eb8d4125f1" />
+<img width="1920" height="1020" alt="Screenshot 2026-03-04 135224" src="https://github.com/user-attachments/assets/ca1bfd29-380e-4ae3-a57c-82cf3318ad69" />
+<img width="1920" height="1020" alt="Screenshot 2026-03-04 135503" src="https://github.com/user-attachments/assets/944f9999-ec46-4dd0-9de4-1af4af919bd0" />
+<img width="1920" height="1020" alt="Screenshot 2026-03-11 153513" src="https://github.com/user-attachments/assets/206b99f6-a63a-4e01-bc8a-27d10dc34b84" />
+<img width="1000" height="793" alt="Screenshot 2026-03-11 153605" src="https://github.com/user-attachments/assets/fdaf8028-e1ad-4c8f-83aa-f288554de7c8" />
+<img width="1920" height="1020" alt="Screenshot 2026-03-11 153938" src="https://github.com/user-attachments/assets/a5b1e26a-ff02-4f39-bc27-193bce4dcfdc" />
+<img width="874" height="915" alt="Screenshot 2026-03-11 154155" src="https://github.com/user-attachments/assets/f3bba129-1f9f-44a0-b091-7eebe77ae7cc" />
+<img width="1920" height="1020" alt="Screenshot 2026-03-11 154654" src="https://github.com/user-attachments/assets/e99b6dba-4185-4f49-8ac7-814287ff633c" />
+<img width="1920" height="1020" alt="Screenshot 2026-03-11 155144" src="https://github.com/user-attachments/assets/8784332a-c3b0-4d14-94c9-779743ab5382" />
+<img width="1920" height="1020" alt="Screenshot 2026-03-11 155225" src="https://github.com/user-attachments/assets/7481afac-eb3a-42cd-a2bc-565b6f87394b" />
+<img width="1904" height="861" alt="Screenshot 2026-03-11 155548" src="https://github.com/user-attachments/assets/312d2b6c-a4c7-46e0-8a18-5fe90c5e5058" />
+<img width="1920" height="1020" alt="Screenshot 2026-03-11 155736" src="https://github.com/user-attachments/assets/e3731573-744b-445b-983b-f87fc2dda40f" />
+<img width="1920" height="1020" alt="Screenshot 2026-03-11 160145" src="https://github.com/user-attachments/assets/5748167d-d306-4201-8b1c-a34c68541d5b" />
+<img width="1920" height="1020" alt="Screenshot 2026-03-11 160433" src="https://github.com/user-attachments/assets/d556cb67-bb36-4545-9a3f-756df6525a74" />
 
 ## ⚙️ Setup & Run Locally
 
