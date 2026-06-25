@@ -217,6 +217,11 @@ MediCore-Clinical-AI-Suite/
 
 ---
 
+📸 Screenshots
+
+<img width="1372" height="725" alt="Screenshot 2026-02-27 190835" src="https://github.com/user-attachments/assets/6fe67f0c-4785-40ac-8285-feaecd5be2be" />
+
+
 ## ⚙️ Setup & Run Locally
 
 ### Prerequisites
